@@ -3,5 +3,5 @@ let btn = document.getElementById("enterBtn")
 let status = document.getElementById("status")
 
 btn.addEventListener("click", ()=>{
-	status.outerHTML = "<h1>Enter Metaverse</h1>"
+	status.outerHTML = "<h1>Entered Metaverse</h1>"
 })
